@@ -8,7 +8,8 @@
   "server": {
     "ip": "bobby12345456-T2y4.aternos.me",
     "port": 27586,
-    "version": "",
+    "version": "1.21.10"
+    
     "try-creative": false
   },
   "position": {
